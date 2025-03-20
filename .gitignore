@@ -1,1 +1,24 @@
-.idea
+# Node.js and npm files
+node_modules/
+npm-debug.log
+
+# Development environment files
+.env
+.env.example
+.DS_Store
+Thumbs.db
+
+# Build and coverage files
+dist/
+coverage/
+build/
+*.log
+
+# IDE and editor files
+.idea/
+*.swp
+*.swo
+
+# Operating system files
+*.tmp
+*.bak
